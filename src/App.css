@@ -1,0 +1,17 @@
+
+.App {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #faf9f6;
+}
+
+
+ .body {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center; 
+}
